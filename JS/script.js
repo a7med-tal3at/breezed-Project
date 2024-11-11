@@ -11,7 +11,7 @@ function scrollFunction() {
     
     }
         
-    document.getElementsByClassName("header-search")[0].style.BackgroundColor = '#60b65b';
+    document.getElementsByClassName("header-search")[0].style.backgroundColor = '#60b65b';
     
     document.getElementsByClassName("header-search")[0].style.color = '#fff';
     
@@ -23,7 +23,7 @@ function scrollFunction() {
         document.getElementsByClassName("tha")[ i].style.color ='#fff';
     
     }
-    document.getElementsByClassName("header-search")[0].style.BackgroundColor = '#fff';
+    document.getElementsByClassName("header-search")[0].style.backgroundColor = '#fff';
     
     document.getElementsByClassName("header-search")[0].style.color = '#60b65b';
 
